@@ -9,7 +9,7 @@
 
 **An autonomous multi-agent system that intelligently generates complete web projects using AI orchestration**
 
-[Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [Usage](#-usage) • [Architecture](#-architecture) • [Contributing](#-contributing)
+[Features](#-features) • [Installation](#-installation) • [Usage](#-usage) • [Architecture](#-architecture)
 
 </div>
 
